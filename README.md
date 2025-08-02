@@ -33,9 +33,9 @@ pip install -r requirements.txt
 ```
 
 4. Apply database migrations:
-```
-python manage.py migrate
-```
+
+`python manage.py migrate`
+
 
 5. Create a superuser (optional):
 ```
